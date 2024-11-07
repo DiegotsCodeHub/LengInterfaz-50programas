@@ -46,7 +46,7 @@ _start:
     adrp x0, num2                          // Cargar la dirección base de num2
     ldr w2, [x0, :lo12:num2]               // Cargar el valor de num2 en w2
 
-    // Restar los dos valores.
+    // Multiplicar los dos valores.
     mul w3, w1, w2                         // Restar num2 de num1, almacenar en w3
 
     // Guardar el resultado en la memoria.
