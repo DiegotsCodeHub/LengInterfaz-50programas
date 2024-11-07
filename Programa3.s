@@ -19,7 +19,7 @@
 //         Console.Write("Ingrese el segundo número: ");
 //         int numero2 = Convert.ToInt32(Console.ReadLine());
 //
-//         // Suma de los dos números
+//         // resta de los dos números
 //         int resta = numero1 - numero2;
 //
 //         Console.WriteLine($"La resta de {numero1} y {numero2} es: {resta}");
