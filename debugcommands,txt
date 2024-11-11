@@ -199,14 +199,29 @@ gcc -o programa40 main40.c programa40.o
 ./programa40
 
 Programa 41:
+as -o programa41.o programa41.s
+gcc -o programa41 main41.c programa41.o
+./programa41
 
 Programa 42:
+as -o programa42.o programa42.s
+gcc -o programa42 main42.c programa42.o
+./programa42
 
 Programa 43:
+as -o programa43.o programa43.s
+gcc -o programa43 main43.c programa43.o
+./programa43
 
 Programa 44:
+as -o programa44.o programa44.s
+gcc -o programa44 main44.c programa44.o
+./programa44
 
 Programa 45:
+as -o programa45.o programa45.s
+gcc -o programa45 main45.c programa45.o
+./programa45
 
 Programa 46:
 
