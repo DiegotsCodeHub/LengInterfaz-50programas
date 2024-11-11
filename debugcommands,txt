@@ -128,6 +128,9 @@ gcc -o programa27 programa27.o
 ./programa27
 
 Programa 28:
+as -o programa28.o programa28.s
+gcc -o programa28 programa28.o
+./programa28
 
 Programa 29:
 
