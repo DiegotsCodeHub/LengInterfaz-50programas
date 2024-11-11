@@ -72,16 +72,33 @@ ld -o programa14 programa14.o
 Programa 15:
 
 Programa 16:
+as -o programa16.o programa16.s
+ld -o programa16 programa16.o
+./programa16
 
 Programa 17:
+as -o programa17.o programa17.s
+ld -o programa17 programa17.o
+./programa17
 
 Programa 18:
+as -o programa18.o programa18.s
+ld -o programa18 programa18.o
+./programa18
 
 Programa 19:
+gcc -c programa19.s -o programa19.o
+gcc main19.c program19.o -o programa19
+./programa19
 
 Programa 20:
+gcc -o programa20 programa20.s
+./programa20
 
 Programa 21:
+as -o programa21.o programa21.s
+gcc -o programa21 programa21.o
+./programa21
 
 Programa 22:
 
