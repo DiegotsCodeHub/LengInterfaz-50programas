@@ -82,15 +82,15 @@ Programa 39: https://asciinema.org/a/lJ9VEtBCZAfM6ZWM6pCR2fBRe
 
 Programa 40: https://asciinema.org/a/QayFj7gsFL6ExqtSDn8qMGjqJ
 
-Programa 41:
+Programa 41: https://asciinema.org/a/WPm2931pUZhDSdPTiP70dW948
 
-Programa 42:
+Programa 42: https://asciinema.org/a/LOOftEOEUmtAhOogv12Yk6b0A
 
-Programa 43:
+Programa 43: https://asciinema.org/a/XkJFZN5enRGUrQPYjM4OsVXkl
 
-Programa 44:
+Programa 44: https://asciinema.org/a/aax9GuCNAohwusrBEnlJ9WZNU
 
-Programa 45:
+Programa 45: https://asciinema.org/a/L8rddf9cciRL2B0zdUxwXfWRR
 
 Programa 46:
 
