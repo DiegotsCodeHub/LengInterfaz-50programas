@@ -141,6 +141,9 @@ ld -o programa29 programa29.o
 ./programa29
 
 Programa 30:
+as -o programa30.o programa30.s
+gcc -o programa30 main30.c programa30.o
+./programa30
 
 Programa 31:
 
