@@ -146,6 +146,9 @@ gcc -o programa30 main30.c programa30.o
 ./programa30
 
 Programa 31:
+as -o programa31.o programa31.s
+gcc -o programa31 programa31.o
+./programa31
 
 Programa 32:
 
