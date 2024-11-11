@@ -106,12 +106,21 @@ ld -o programa22 programa22.o
 ./programa22
 
 Programa 23:
+as -o programa23.o programa23.s
+ld -o programa23 programa23.o
+./programa23
 
 Programa 24:
+as -o programa23.o programa23.s
+ld -o programa23 programa23.o
+./programa23
 
-Programa 25:
+Programa 25: // PENDIENTE //
 
 Programa 26:
+as -o programa26.o programa26.s
+gcc -o programa26 programa26.o
+./programa26
 
 Programa 27:
 
