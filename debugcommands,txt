@@ -101,6 +101,9 @@ gcc -o programa21 programa21.o
 ./programa21
 
 Programa 22:
+as -o programa22.o programa22.s
+ld -o programa22 programa22.o
+./programa22
 
 Programa 23:
 
