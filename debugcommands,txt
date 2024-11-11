@@ -29,20 +29,45 @@ gcc -o programa6 programa6.o
 ./programa6
 
 Programa 7:
+as -o programa7.o programa7.s
+ld -o programa7 programa7.o
+./programa7
 
 Programa 8:
+as -o programa8.o programa8.s
+ld -o programa8 programa8.o
+./programa8
 
 Programa 9:
+as -o programa9.o programa9.s
+ld -o programa9 programa9.o
+./programa9
 
 Programa 10:
+as -o programa10.o programa10.s
+ld -o programa10 programa10.o
+./programa10
 
 Programa 11:
+as -o programa11.o programa11.s
+ld -o programa11 programa11.o
+./programa11
 
 Programa 12:
+as -o main12.o programa12.s
+gcc -c main12.c -o main12.o
+gcc main12.o programa12.o -o programa12
+./programa12
 
 Programa 13:
+as -o programa13.o programa13.s
+ld -o programa13 programa13.o
+./programa13
 
 Programa 14:
+as -o programa14.o programa14.s
+ld -o programa14 programa14.o
+./programa14
 
 Programa 15:
 
