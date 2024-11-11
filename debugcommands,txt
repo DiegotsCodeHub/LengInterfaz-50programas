@@ -70,6 +70,9 @@ ld -o programa14 programa14.o
 ./programa14
 
 Programa 15:
+as -o programa15.o programa15.s
+ld -o programa15 programa15.o
+./programa15
 
 Programa 16:
 as -o programa16.o programa16.s
@@ -151,22 +154,49 @@ gcc -o programa31 programa31.o
 ./programa31
 
 Programa 32:
+as -o programa32.o programa32.s
+gcc -o programa32 programa32.o
+./programa32
 
 Programa 33:
+as -o programa33.o programa33.s
+gcc -o programa33 programa33.o
+./programa33
 
 Programa 34:
+as -o programa34.o programa34.s
+gcc -o programa34 main34.c programa34.o
+./programa34
 
 Programa 35:
+as -o programa35.o programa35.s
+gcc -o programa35 programa35.o
+./programa35
 
 Programa 36:
+as -o programa36.o programa36.s
+gcc -o programa36 programa36.o
+./programa36
 
 Programa 37:
+as -o programa37.o programa37.s
+gcc -o programa37 main37.c programa37.o
+./programa37
 
 Programa 38:
+as -o programa38.o programa38.s
+gcc -o programa38 main38.c programa38.o
+./programa38
 
 Programa 39:
+as -o programa39.o programa39.s
+gcc -o programa39 main39.c programa39.o
+./programa39
 
 Programa 40:
+as -o programa40.o programa40.s
+gcc -o programa40 main40.c programa40.o
+./programa40
 
 Programa 41:
 
